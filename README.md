@@ -91,29 +91,10 @@ I engineer high-throughput developer infrastructure, deterministic verification 
 
 ### 🌐 Upstream Open Source Contributions
 
-A selection of recent pull requests merged or accepted into upstream codebases:
-
-```text
-┌─────────────────┬──────────┬─────────────────────────────────────────────────────────────┬────────────┐
-│ Repository      │ Pull Req │ Subsystem & Architecture Focus                              │ Status     │
-├─────────────────┼──────────┼─────────────────────────────────────────────────────────────┼────────────┤
-│ neomjs/neo      │ #20809   │ Core Observable destroyed-scope event unbinding & CI fix    │ APPROVED   │
-│ neomjs/neo      │ #20787   │ Engine setup doc architecture alignment (343 links audited) │ MERGED     │
-│ flisk-sh/flisk  │ #3824    │ Vitest it.each worker-pool parallelization for CLI registry │ MERGED     │
-│ mloda-ai/mloda  │ #2862    │ Pytest Apache Arrow Flight server refusal & multiprocessing │ SUBMITTED  │
-└─────────────────┴──────────┴─────────────────────────────────────────────────────────────┴────────────┘
-```
-
-#### Detailed Contribution Highlights:
-* **[neomjs/neo #20809](https://github.com/neomjs/neo/pull/20809) (`fix(core): drop listeners whose scope is destroyed`)**:
-  - Fixed a critical event-loop defect where observable instances fired callbacks on destroyed scopes.
-  - Collapsed the check directly into `Observable#fire`'s primary dispatch loop (`!cb.scope.id || cb.scope.isDestroyed`), handled mid-dispatch sibling scope destruction, and aligned collection mirror specs across 217 unit tests.
-  - Passed all 33/33 CI checks; maintainer closed competing pull requests in favor of this implementation and cited it as an operational benchmark in `neomjs/neo-agent-brain#1642`.
-* **[flisk-sh/flisk #3824](https://github.com/flisk-sh/flisk/pull/3824) (`perf(test): split create registry tests`)**:
-  - Replaced sequential CLI registry tests with concurrent `it.each` Vitest worker suites.
-  - Awarded **Founding Contributor #11 of 100** badge and **7 kyu Flisk Hall of Fame** status.
-* **[neomjs/neo #20787](https://github.com/neomjs/neo/pull/20787) (`docs: remove retired ai:* scripts`)**:
-  - Decoupled Engine documentation from Agent OS runtimes post-repository split; audited 343 cross-file markdown links against git index with zero broken references.
+* **[neomjs/neo #20809](https://github.com/neomjs/neo/pull/20809)** (`Approved`) &mdash; Fixed core `Observable` event-loop callbacks firing on destroyed scopes; resolved mid-dispatch scope suppression across 217 unit tests.
+* **[flisk-sh/flisk #3824](https://github.com/flisk-sh/flisk/pull/3824)** (`Merged`) &mdash; Parallelized CLI registry test suites with concurrent `it.each` Vitest worker pools (awarded Founding Contributor #11).
+* **[neomjs/neo #20787](https://github.com/neomjs/neo/pull/20787)** (`Merged`) &mdash; Decoupled Engine documentation post-repository split; audited 343 cross-file markdown references with zero broken links.
+* **[mloda-ai/mloda #2862](https://github.com/mloda-ai/mloda/pull/2862)** (`Submitted`) &mdash; Hardened Pytest Apache Arrow Flight connection refusal handling and multiprocessing worker teardown.
 
 ---
 
