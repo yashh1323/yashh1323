@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/banner.svg" width="100%" alt="Yash Kashyap — Systems & Runtimes Engineer" />
   <br/><br/>
-  <h1>Yash Kashyap</h1>
+  <h1>Yash</h1>
   <p><b>Systems Architecture &bull; High-Performance Runtimes (Rust, Go, TS) &bull; Autonomous Agent Tooling</b></p>
   <p><code>@yashh1323</code> &bull; Open Source Core Contributor</p>
 
