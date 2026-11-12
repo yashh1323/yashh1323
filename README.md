@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Yash Kashyap — Systems & Runtimes Engineer" />
+  <img src="./assets/ascii-art.svg" width="100%" alt="Yash Kashyap — Systems & Runtimes Engineer" />
   <br/><br/>
   <h1>Yash</h1>
   <p><b>Systems Architecture &bull; High-Performance Runtimes (Rust, Go, TS) &bull; Autonomous Agent Tooling</b></p>
