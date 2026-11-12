@@ -1,18 +1,15 @@
-```text
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║   __   __  ___   ____   _   _     Systems Architecture & Developer Tooling    ║
-║   \ \ / / / _ \ / ___| | | | |    High-Performance Runtimes (Rust, Go, TS)    ║
-║    \ V / / /_\ \\___ \ | |_| |    Autonomous Agents & Deterministic QA        ║
-║     | |  |  _  | ___) ||  _  |    Open Source Core Contributor                ║
-║     |_|  |_| |_||____/ |_| |_|    @yashh1323 • github.com/yashh1323           ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
+  <img src="./assets/header.svg" width="100%" alt="Yash Kashyap — Systems & Runtimes Engineer" />
+  <br/><br/>
+  <h1>Yash Kashyap</h1>
+  <p><b>Systems Architecture &bull; High-Performance Runtimes (Rust, Go, TS) &bull; Autonomous Agent Tooling</b></p>
+  <p><code>@yashh1323</code> &bull; Open Source Core Contributor</p>
 
-[![Open Source PRs](https://img.shields.io/badge/Open%20Source-Active%20Contributor-10b981?style=for-the-badge&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr+author%3Ayashh1323)
-[![Founding Contributor #11 @yashh1323](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%2311%20of%20100%20%E2%80%A2%20yashh1323&color=06b6d4&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
-[![Flisk Rank](https://img.shields.io/badge/FLISK%20RANK-7%20kyu%20%E2%80%A2%20Test%20Atoll-06b6d4?style=for-the-badge&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/3819)
+  <br/>
+
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Ayashh1323"><img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-10b981?style=for-the-badge&labelColor=0d1117" alt="Open Source Contributor" /></a>
+  <a href="https://discord.gg/qMu5Xn8Kaq"><img src="https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%2311%20of%20100%20%E2%80%A2%20yashh1323&color=06b6d4&labelColor=07080f&style=for-the-badge" alt="Founding Contributor" /></a>
+  <a href="https://github.com/flisk-sh/flisk/issues/3819"><img src="https://img.shields.io/badge/FLISK%20RANK-7%20kyu%20%E2%80%A2%20Test%20Atoll-06b6d4?style=for-the-badge&labelColor=07080f" alt="Flisk Rank" /></a>
 
 </div>
 
