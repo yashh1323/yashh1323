@@ -10,8 +10,6 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/yashh1323?label=Followers&style=for-the-badge&color=00f2fe&labelColor=0d1117)](https://github.com/yashh1323)
-[![GitHub stars](https://img.shields.io/github/stars/yashh1323?label=Stars&style=for-the-badge&color=38bdf8&labelColor=0d1117)](https://github.com/yashh1323?tab=repositories)
 [![Open Source PRs](https://img.shields.io/badge/Open%20Source-Active%20Contributor-10b981?style=for-the-badge&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr+author%3Ayashh1323)
 [![Founding Contributor #11 @yashh1323](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%2311%20of%20100%20%E2%80%A2%20yashh1323&color=06b6d4&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
 [![Flisk Rank](https://img.shields.io/badge/FLISK%20RANK-7%20kyu%20%E2%80%A2%20Test%20Atoll-06b6d4?style=for-the-badge&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/3819)
@@ -139,15 +137,10 @@ Databases     ::  PostgreSQL (Supabase RLS)  •  SQLite  •  Redis
 
 ---
 
-### 📊 GitHub Activity & Telemetry
+### 📊 Primary Languages
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashh1323&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=38bdf8&text_color=94a3b8" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashh1323&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=94a3b8" height="165" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashh1323&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=38bdf8&currStreakLabel=00f2fe" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashh1323&layout=compact&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=e2e8f0" height="165" alt="Top Languages" />
 </div>
 
 ---
