@@ -15,7 +15,7 @@
 
 ---
 
-### ⚡ Architectural Focus
+### Architectural Focus
 
 I engineer high-throughput developer infrastructure, deterministic verification engines, and resilient distributed tooling. My work bridges low-level systems programming in **Rust** and **Go** with modern **TypeScript** runtimes, Model Context Protocol (MCP) servers, and autonomous agent orchestration.
 
@@ -26,7 +26,7 @@ I engineer high-throughput developer infrastructure, deterministic verification 
 
 ---
 
-### 🏛️ Featured Projects
+### Featured Projects
 
 <table>
   <tr>
@@ -89,7 +89,7 @@ I engineer high-throughput developer infrastructure, deterministic verification 
 
 ---
 
-### 🌐 Upstream Open Source Contributions
+### Upstream Open Source Contributions
 
 * **[neomjs/neo #20809](https://github.com/neomjs/neo/pull/20809)** (`Approved`) &mdash; Fixed core `Observable` event-loop callbacks firing on destroyed scopes; resolved mid-dispatch scope suppression across 217 unit tests.
 * **[flisk-sh/flisk #3824](https://github.com/flisk-sh/flisk/pull/3824)** (`Merged`) &mdash; Parallelized CLI registry test suites with concurrent `it.each` Vitest worker pools (awarded Founding Contributor #11).
@@ -98,7 +98,7 @@ I engineer high-throughput developer infrastructure, deterministic verification 
 
 ---
 
-### 🛠️ Technical Stack & Toolchain
+### Technical Stack & Toolchain
 
 ```text
 Languages     ::  Rust  •  TypeScript  •  Go  •  JavaScript  •  Python  •  SQL  •  C/C++
@@ -115,7 +115,7 @@ Databases     ::  PostgreSQL (Supabase RLS)  •  SQLite  •  Redis
 
 ---
 
-### 📊 Primary Languages
+### Primary Languages
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashh1323&layout=compact&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=e2e8f0" height="165" alt="Top Languages" />
