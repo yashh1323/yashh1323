@@ -99,7 +99,7 @@ I engineer high-throughput developer infrastructure, deterministic verification 
 * **[neomjs/neo #20787](https://github.com/neomjs/neo/pull/20787)** (`Merged`) &mdash; Decoupled Engine documentation post-repository split; audited 343 cross-file markdown references with zero broken links.
 
 <div align="center">
-  <a href="https://neomjs.com/badges/yashh1323-183808659/"><img src="https://neomjs.com/badges/yashh1323-183808659/card.svg" alt="Neo.mjs Contributor Card" /></a>
+  <a href="https://neomjs.com/badges/yashh1323-183808659/"><img src="https://neomjs.com/badges/yashh1323-183808659/card.svg" alt="Neo.mjs Contributor" /></a>
 </div>
 
 ---
