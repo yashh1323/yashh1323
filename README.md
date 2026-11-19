@@ -124,7 +124,7 @@ Databases     ::  PostgreSQL (Supabase RLS)  •  SQLite  •  Redis
 ### Primary Languages
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashh1323&layout=compact&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=e2e8f0" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashh1323&layout=compact&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=e2e8f0" height="165" alt="yashh1323 Top Languages" />
 </div>
 
 ---
