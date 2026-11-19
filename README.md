@@ -8,6 +8,7 @@
   <br/>
 
   <a href="https://github.com/pulls?q=is%3Apr+author%3Ayashh1323"><img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-10b981?style=for-the-badge&labelColor=0d1117" alt="Open Source Contributor" /></a>
+  <a href="https://neomjs.com/badges/yashh1323-183808659/"><img src="https://neomjs.com/badges/yashh1323-183808659/plate.svg" alt="Neo.mjs Contributor" /></a>
   <a href="https://discord.gg/qMu5Xn8Kaq"><img src="https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%2311%20of%20100%20%E2%80%A2%20yashh1323&color=06b6d4&labelColor=07080f&style=for-the-badge" alt="Founding Contributor" /></a>
   <a href="https://github.com/flisk-sh/flisk/issues/3819"><img src="https://img.shields.io/badge/FLISK%20RANK-7%20kyu%20%E2%80%A2%20Test%20Atoll-06b6d4?style=for-the-badge&labelColor=07080f" alt="Flisk Rank" /></a>
 
@@ -91,10 +92,15 @@ I engineer high-throughput developer infrastructure, deterministic verification 
 
 ### Upstream Open Source Contributions
 
-* **[neomjs/neo #20809](https://github.com/neomjs/neo/pull/20809)** (`Approved`) &mdash; Fixed core `Observable` event-loop callbacks firing on destroyed scopes; resolved mid-dispatch scope suppression across 217 unit tests.
+* **[neomjs/neo #21009](https://github.com/neomjs/neo/pull/21009)** (`Merged`) &mdash; Eliminated hidden `TreeStore` hydration during index lookups and retained raw tree-row batch values across structural reprojections.
+* **[neomjs/neo #20809](https://github.com/neomjs/neo/pull/20809)** (`Merged`) &mdash; Fixed core `Observable` event-loop callbacks firing on destroyed scopes; resolved mid-dispatch scope suppression across 217 unit tests.
+* **[vercel-labs/skills #2750](https://github.com/vercel-labs/skills/pull/2750)** (`Merged`) &mdash; Serialized local lockfile updates and switched lockfile writes to atomic operations.
 * **[flisk-sh/flisk #3824](https://github.com/flisk-sh/flisk/pull/3824)** (`Merged`) &mdash; Parallelized CLI registry test suites with concurrent `it.each` Vitest worker pools (awarded Founding Contributor #11).
 * **[neomjs/neo #20787](https://github.com/neomjs/neo/pull/20787)** (`Merged`) &mdash; Decoupled Engine documentation post-repository split; audited 343 cross-file markdown references with zero broken links.
-* **[mloda-ai/mloda #2862](https://github.com/mloda-ai/mloda/pull/2862)** (`Submitted`) &mdash; Hardened Pytest Apache Arrow Flight connection refusal handling and multiprocessing worker teardown.
+
+<div align="center">
+  <a href="https://neomjs.com/badges/yashh1323-183808659/"><img src="https://neomjs.com/badges/yashh1323-183808659/card.svg" alt="Neo.mjs contributor" /></a>
+</div>
 
 ---
 
