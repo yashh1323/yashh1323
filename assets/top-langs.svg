@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="165" viewBox="0 0 350 165" fill="none" role="img" aria-labelledby="title-id desc-id">
+  <title id="title-id">Most Used Languages</title>
+  <desc id="desc-id">TypeScript 50.95%, JavaScript 25.13%, Rust 15.23%, HTML 6.67%, Shell 1.06%, CSS 0.96%</desc>
+  <defs>
+    <clipPath id="bar-clip">
+      <rect x="25" y="52" width="300" height="8" rx="4" />
+    </clipPath>
+    <style>
+      .header {
+        font: 600 16px 'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
+        fill: #7dd3fc;
+      }
+      .lang-name {
+        font: 600 12px 'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
+        fill: #e2e8f0;
+      }
+      .lang-pct {
+        font: 400 12px 'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
+        fill: #94a3b8;
+      }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="349" height="164" rx="6" fill="#0d1117" stroke="#30363d" stroke-opacity="0.6" />
+
+  <text x="25" y="34" class="header">Most Used Languages</text>
+
+  <g clip-path="url(#bar-clip)">
+    <rect x="25" y="52" width="152.85" height="8" fill="#3178c6" />
+    <rect x="177.85" y="52" width="75.39" height="8" fill="#f1e05a" />
+    <rect x="253.24" y="52" width="45.69" height="8" fill="#dea584" />
+    <rect x="298.93" y="52" width="20.01" height="8" fill="#e34c26" />
+    <rect x="318.94" y="52" width="3.18" height="8" fill="#89e051" />
+    <rect x="322.12" y="52" width="2.88" height="8" fill="#663399" />
+  </g>
+
+  <!-- Row 1 -->
+  <g transform="translate(25, 86)">
+    <circle cx="5" cy="-4" r="5" fill="#3178c6" />
+    <text x="16" y="0" class="lang-name">TypeScript <tspan class="lang-pct">50.95%</tspan></text>
+  </g>
+  <g transform="translate(190, 86)">
+    <circle cx="5" cy="-4" r="5" fill="#f1e05a" />
+    <text x="16" y="0" class="lang-name">JavaScript <tspan class="lang-pct">25.13%</tspan></text>
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(25, 112)">
+    <circle cx="5" cy="-4" r="5" fill="#dea584" />
+    <text x="16" y="0" class="lang-name">Rust <tspan class="lang-pct">15.23%</tspan></text>
+  </g>
+  <g transform="translate(190, 112)">
+    <circle cx="5" cy="-4" r="5" fill="#e34c26" />
+    <text x="16" y="0" class="lang-name">HTML <tspan class="lang-pct">6.67%</tspan></text>
+  </g>
+
+  <!-- Row 3 -->
+  <g transform="translate(25, 138)">
+    <circle cx="5" cy="-4" r="5" fill="#89e051" />
+    <text x="16" y="0" class="lang-name">Shell <tspan class="lang-pct">1.06%</tspan></text>
+  </g>
+  <g transform="translate(190, 138)">
+    <circle cx="5" cy="-4" r="5" fill="#663399" />
+    <text x="16" y="0" class="lang-name">CSS <tspan class="lang-pct">0.96%</tspan></text>
+  </g>
+</svg>
