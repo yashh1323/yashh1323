@@ -4,6 +4,7 @@
   <h1>Yash Kashyap</h1>
   <p><b>3rd-year CS builder in Delhi &middot; Rust, Go, TypeScript, Playwright &amp; MCP</b></p>
   <p>
+    <a href="https://yashh.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-yashh.is--a.dev-10b981?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="https://yashh2313.hashnode.dev"><img src="https://img.shields.io/badge/Blog-yashh2313.hashnode.dev-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode Blog" /></a>
     <a href="https://www.linkedin.com/in/yashh1323/"><img src="https://img.shields.io/badge/LinkedIn-%2Fin%2Fyashh1323-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://x.com/yashh2313"><img src="https://img.shields.io/badge/X-%40yashh2313-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
@@ -144,6 +145,6 @@ Databases     ::  PostgreSQL (Supabase RLS)  •  SQLite  •  Redis
 
 <div align="center">
 
-Open to Systems, Full-Stack, and AI Tooling internships or remote roles.
+Portfolio: <a href="https://yashh.is-a.dev"><b>yashh.is-a.dev</b></a> (<a href="https://23.is-a.dev"><code>23.is-a.dev</code></a>) &middot; Open to Systems, Full-Stack, and AI Tooling internships or remote roles.
 
 </div>
